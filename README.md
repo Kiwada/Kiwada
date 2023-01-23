@@ -10,6 +10,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
+
+
 ##
  
 <div> 
@@ -30,3 +33,7 @@ Docs
 Contact GitHub
 Pricing
 API
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
