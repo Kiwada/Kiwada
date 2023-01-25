@@ -40,6 +40,9 @@
   
 ##
   </div>
+![snake gif](https://github.com/Kiwada/Kiwada/blob/output/github-contribution-grid-snake.svg)
+
+  
 Footer
 © 2023 GitHub, Inc.
 Footer navigation
