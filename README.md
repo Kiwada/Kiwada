@@ -13,8 +13,8 @@
 
 
 ##
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwada&theme=github_dark&show_icons=true)
+
+![snake gif](https://github.com/Kiwada/Kiwada/blob/output/github-contribution-grid-snake.svg)
 
 
   
