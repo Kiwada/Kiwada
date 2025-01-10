@@ -42,7 +42,7 @@
 
   
 Footer
-© 2023 GitHub, Inc.
+© 2021 GitHub, Inc.
 Footer navigation
 Terms
 Privacy
