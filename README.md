@@ -17,19 +17,6 @@
   
 </div>
 
-##
-<div align="center">
-	
-  <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white&style=for-the-badge" />
-  
-</div>
-
-
-##
-
 
 ## Find me around the web !
 
