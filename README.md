@@ -18,7 +18,6 @@
 </div>
 
 <div align="center">
-  <h2> 🛠️ Tools </h2>
 	
   <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
