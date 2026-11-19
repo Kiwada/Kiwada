@@ -28,11 +28,6 @@ Experiência na construção de aplicações modernas utilizando containers, clo
 ## GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kiwada&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kiwada&layout=compact&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kiwada&hide_border=true"/>
 </p>
 
