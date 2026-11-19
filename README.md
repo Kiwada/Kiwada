@@ -21,10 +21,6 @@ Experiência na construção de aplicações modernas utilizando containers, clo
 
 ---
 
-## Architecture
-
----
-
 ## GitHub
 
 <p align="center">
